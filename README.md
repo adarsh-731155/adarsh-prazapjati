@@ -1,3 +1,3 @@
-# code-coder
+# cod-coder
 This is my first Git Repository
 Auther - Adarsh Prazapati
